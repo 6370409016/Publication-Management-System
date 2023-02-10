@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Work+Sans&display=swap');
+/************** NAVBAR************************/
+body{
+    margin: 0;
+}
+
+.navbar{
+    height: 140px;
+}
+
+.navbar-brand{
+    margin: 0 40px;
+    font-size: 2rem;
+}
+
+#navbarNavDropdown{
+    margin-left:350px;
+}
+
+.nav-item{
+   margin: 0 10px; 
+}

@@ -1,0 +1,32 @@
+.form{
+    background-color: #EEEEEE;
+    display: grid;
+    margin-top: 5%;
+    place-items: center;
+    padding: 30px;
+}
+body{
+    background-color: #F9F9F9; 
+}
+.LogBody{
+
+    display: grid;
+    place-items: center;
+}
+form{
+
+    padding: 30px;
+}
+.mb-3{
+    margin: 10px;
+    width: 300px;
+}
+
+.btn{
+    margin: 10px;
+}
+
+.login-img{
+    
+    display: inline-block;
+}
