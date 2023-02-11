@@ -16,7 +16,7 @@ export default function Home() {
           <Link to="/login" class="nav-link active" aria-current="page">LOGIN</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="null">REGISTER</a>
+        <Link to="/register" class="nav-link active" aria-current="page">REGISTER</Link>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="null">FACULTY SYSTEM</a>
