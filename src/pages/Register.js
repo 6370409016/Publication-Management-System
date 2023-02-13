@@ -69,6 +69,7 @@ function Register() {
   <div class="mb-3">
     <label for="exampleInputPassword1" class="form-label">Password</label>
     <input type="password" class="form-control" id="exampleInputPassword1" required />
+    <div id="passwordHelp" class="form-text">Provide password combination of Capital letters, small letters and special charecters.</div>
   </div>
   
 
