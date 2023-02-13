@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
        <div class="container-fluid">
-    <a class="navbar-brand" href="/">PUBLICATION MANAGEMENT SYSTEM</a>
+    <Link to="/" class="navbar-brand" >PUBLICATION MANAGEMENT SYSTEM</Link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
