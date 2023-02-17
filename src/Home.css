@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Work+Sans&display=swap');
+
 /************** NAVBAR************************/
 body{
     margin: 0;
 }
 
+.bg-body-tertiary {
+    background-color: disable;
+}
 .navbar{
+    background-color: #EAEAEA;
     height: 140px;
 }
 
@@ -20,3 +25,6 @@ body{
 .nav-item{
    margin: 0 10px; 
 }
+
+
+/******************************* Middle Container *****************************/
