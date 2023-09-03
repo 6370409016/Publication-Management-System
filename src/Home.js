@@ -1,12 +1,19 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import "./Home.css"
+import video from './Assests/Cutmbg.mp4'
+import cutmLogo from './Assests/Cutm logo.png'
+import Footer from './Components/Footer'
+
 
 export default function Home() {
   return (
     <div>
       <nav class="  navbar navbar-expand-lg ">
         <div class="container-fluid">
-          <Link to="/" class="navbar-brand" >PUBLICATION MANAGEMENT SYSTEM</Link>
+          <Link to="/" class="navbar-brand" >
+            <img src={cutmLogo} alt='cutm-logo' className='cutm-logo' />
+            PUBLICATION MANAGEMENT SYSTEM</Link>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -40,8 +47,16 @@ export default function Home() {
         </div>
       </nav>
       <div class="middile-container">
-          <h1 class="middile-headind">CENTURION UNIVERSITY OF TECHNOLOGY AND MANAGEMENT</h1>
+        <video autoPlay loop muted>
+          <source src={video} type='video/mp4' />
+        </video>
+
       </div>
+
+      <Footer />
+
+
+      
     </div>
 
   )

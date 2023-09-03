@@ -1,30 +1,46 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Work+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Work+Sans&display=swap");
 
 /************** NAVBAR************************/
-body{
-    margin: 0;
+body {
+  margin: 0;
 }
 
 .bg-body-tertiary {
-    background-color: disable;
+  background-color: disable;
 }
-.navbar{
-    background-color: #EAEAEA;
-    height: 140px;
-}
-
-.navbar-brand{
-    margin: 0 40px;
-    font-size: 2rem;
+.navbar {
+  background-color: #f7f4f4;
+  height: 140px;
+  z-index: 2;
 }
 
-#navbarNavDropdown{
-    margin-left:350px;
+.navbar-brand {
+  margin: 0 40px;
+  font-size: 2rem;
 }
 
-.nav-item{
-   margin: 0 10px; 
+
+
+.nav-item {
+  margin: 0 10px;
 }
 
+.cutm-logo{
+    width: 8%;
+    margin: 5px 10px;
+}
 
 /******************************* Middle Container *****************************/
+video {
+  width: 100%;
+  filter: brightness(0.5);
+}
+
+
+
+.middile-heading{
+    padding-top: 5%;
+    color: #ffffff;
+    font-size: 3rem;
+    text-align: center;
+}

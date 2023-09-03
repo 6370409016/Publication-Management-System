@@ -1,5 +1,6 @@
 import React from 'react'
 import LogImage from "./images/login_image.png"
+import "../Styles/Login.css"
 
 
 

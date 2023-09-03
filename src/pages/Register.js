@@ -10,6 +10,8 @@ import Reg8 from './images/Reg8.jpg'
 import Reg9 from './images/Reg9.jpg'
 import Reg10 from './images/Reg10.jpg'
 import RegImg from './images/Register.png'
+import "../Styles/Register.css"
+
 function Register() {
   return (
     <div class="main-container">
@@ -82,4 +84,4 @@ function Register() {
   )
 }
 
-export default Register
+export default Register;
