@@ -34,9 +34,9 @@
 ### Contributions to the project are restricted to only group members.
 
 
-##Team Members:
-###BADAL KUMAR BEHERA,
-CHANDAN KUMAR SAHOO,
-SAI SOMYA RANJAN PATI,
-SUDHANSU MOHARANA,
-SK SIRAJUL ISLAM,
+## Team Members:
+### BADAL KUMAR BEHERA,
+### CHANDAN KUMAR SAHOO,
+### SAI SOMYA RANJAN PATI,
+### SUDHANSU MOHARANA,
+### SK SIRAJUL ISLAM,
