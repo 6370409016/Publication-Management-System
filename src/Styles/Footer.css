@@ -60,11 +60,15 @@
   width: 2vw;
 }
 
-.horizontal-line{
-    border: 1px solid #ffffff;
-    width: 60vw;
-    margin: 5px;
+.horizontal-line {
+  border: 1px solid #ffffff;
+  width: 60vw;
+  margin: 5px;
 }
-.footer-lower p{
+.footer-lower p {
+  color: #ffffff;
+}
+
+.footer-lower a {
   color: #ffffff;
 }

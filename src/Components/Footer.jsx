@@ -32,7 +32,7 @@ export default function Footer() {
                 </div>
                 <div className="horizontal-line"> </div>
                 <div className="footer-lower">
-                    <p> © CUTM 2023 | Visit us at cutm.ac.in for more datails </p>
+                    <p> © CUTM 2023 | Visit us at <a href="https://cutm.ac.in/" target="_blank" rel="noopener noreferrer">cutm.ac.in</a> for more datails </p>
                 </div>
 
 

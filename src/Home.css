@@ -19,15 +19,13 @@ body {
   font-size: 2rem;
 }
 
-
-
 .nav-item {
   margin: 0 10px;
 }
 
-.cutm-logo{
-    width: 8%;
-    margin: 5px 10px;
+.cutm-logo {
+  width: 8%;
+  margin: 5px 10px;
 }
 
 /******************************* Middle Container *****************************/
@@ -36,11 +34,9 @@ video {
   filter: brightness(0.5);
 }
 
-
-
-.middile-heading{
-    padding-top: 5%;
-    color: #ffffff;
-    font-size: 3rem;
-    text-align: center;
+.middile-heading {
+  padding-top: 5%;
+  color: #ffffff;
+  font-size: 3rem;
+  text-align: center;
 }
