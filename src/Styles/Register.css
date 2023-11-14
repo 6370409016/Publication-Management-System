@@ -1,5 +1,5 @@
 .main-container {
-
+  justify-content: center;
     display: flex;
     min-height: 100vh;
     /*this make the flex height to fit to the web-browser*/
@@ -42,7 +42,7 @@ form {
 }
 
 .mb-3 {
-    margin: 10px;
+    margin: 10px 10px;
     width: 300px;
 }
 

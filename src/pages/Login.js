@@ -4,10 +4,13 @@ import "../Styles/Login.css"
 
 
 
+
 export default function Login() {
   return (
-    <div className="LogBody">
-      <>
+    <>
+      
+      <div className="LogBody">
+
         <h1 className="log-heading">LOGIN</h1>
         <div className="form">
           <img className="login-img" src={LogImage} alt='login_image' height={150} />
@@ -26,7 +29,8 @@ export default function Login() {
           </form>
         </div>
 
-      </>
-    </div>
+
+      </div>
+    </>
   )
 }

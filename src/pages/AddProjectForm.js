@@ -34,6 +34,7 @@ const AddProjectForm = () => {
   };
 
   return (
+    
     <div style={{ background: '#f4f4f4' }}>
       <div style={{ fontFamily: 'Arial, sans-serif', margin: 0, padding: 0, boxSizing: 'border-box' }}>
         <div style={{ maxWidth: '800px', margin: '20px auto', backgroundColor: '#fff', padding: '20px', borderRadius: '8px', boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)' }}>
