@@ -6,6 +6,7 @@ import PublicationForm from "./pages/PublicationForm";
 import Login from "./pages/Login"
 import Register from "./pages/Register"
 import AddProjectForm from "./pages/AddProjectForm";
+import FacultySystem from "./pages/FacultySystem";
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/project" element={<AddProjectForm />} />
+        <Route path="/faculty" element={<FacultySystem />} />
+
 
       </Routes>
     </Router>

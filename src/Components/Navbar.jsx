@@ -22,7 +22,7 @@ export default function Navbar() {
                             <Link to="/register" className="nav-link active" aria-current="page">REGISTER</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="null">FACULTY SYSTEM</Link>
+                            <Link className="nav-link" to="/faculty">FACULTY SYSTEM</Link>
                         </li>
                         <li className="nav-item dropdown dropstart">
                             <Link className="nav-link dropdown-toggle" to="null" role="button" data-bs-toggle="dropdown" aria-expanded="false">
