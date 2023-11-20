@@ -1,0 +1,74 @@
+/* Add these styles to your App.css */
+
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .suggestion-box {
+    width: 50%; /* Adjust the width to your preference */
+    margin: 30px auto; /* Center the box horizontally */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  
+  .suggestion-box h3 {
+    color: #555;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .add-button {
+    background-color: #2196f3;
+  }
+  
+  .delete-button {
+    background-color: rgb(224, 22, 22);
+  }
+  
+  .save-button {
+    background-color: #f44336;
+    margin-left: 10px;
+  }
+  
+  /* Optional: Add hover effects */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Optional: Add transition effects */
+  button {
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  

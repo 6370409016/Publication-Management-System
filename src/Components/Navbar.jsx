@@ -30,7 +30,7 @@ export default function Navbar() {
                             </Link>
                             <ul className="dropdown-menu">
                                 <li><Link className="dropdown-item" to="/publication">Publication</Link></li>
-                                <li><Link className="dropdown-item" to="null">Publication Review</Link></li>
+                                <li><Link className="dropdown-item" to="/suggestion">Publication Review</Link></li>
                                 <li><Link className="dropdown-item" to="/project">Projects</Link></li>
                                 <li><Link className="dropdown-item" to="/product">Products</Link></li>
                                 <li><Link className="dropdown-item" to="/award">Awards</Link></li>

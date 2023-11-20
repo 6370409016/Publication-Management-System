@@ -9,6 +9,7 @@ import AddProjectForm from "./pages/AddProjectForm";
 import FacultySystem from "./pages/FacultySystem";
 import AwardsPage from "./pages/AwardPage";
 import ProductPage from "./pages/ProductPage";
+import SuggestionPage from "./pages/SuggestionPage";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         <Route path="/faculty" element={<FacultySystem />} />
         <Route path="/award" element={<AwardsPage />} />
         <Route path="/product" element={<ProductPage />} />
+        <Route path="/suggestion" element={<SuggestionPage />} />
 
 
       </Routes>
