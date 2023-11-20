@@ -7,6 +7,7 @@ import Login from "./pages/Login"
 import Register from "./pages/Register"
 import AddProjectForm from "./pages/AddProjectForm";
 import FacultySystem from "./pages/FacultySystem";
+import AwardsPage from "./pages/AwardPage";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="/register" element={<Register />} />
         <Route path="/project" element={<AddProjectForm />} />
         <Route path="/faculty" element={<FacultySystem />} />
+        <Route path="/award" element={<AwardsPage />} />
 
 
       </Routes>
