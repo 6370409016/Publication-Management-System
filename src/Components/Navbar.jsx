@@ -31,7 +31,7 @@ export default function Navbar() {
                             <ul className="dropdown-menu">
                                 <li><Link className="dropdown-item" to="/publication">Publication</Link></li>
                                 <li><Link className="dropdown-item" to="/project">Projects</Link></li>
-                                <li><Link className="dropdown-item" to="null">Products</Link></li>
+                                <li><Link className="dropdown-item" to="/product">Products</Link></li>
                                 <li><Link className="dropdown-item" to="/award">Awards</Link></li>
                                 <li><Link className="dropdown-item" to="null">Research Scholar Guidance</Link></li>
                                 <li><Link className="dropdown-item" to="null">Learning Material Developed</Link></li>
