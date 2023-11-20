@@ -27,9 +27,13 @@
 
 ## Usage:
 ### Teachers can register/login to the system.
+This indicates that the system has user authentication functionality, allowing teachers to create accounts or log in if they already have one.
 ### Teachers can add their publications, and edit or delete them as required.
+Teachers have the ability to upload information about their publications to the system. Additionally, they can edit or remove these publications as needed, suggesting a dynamic and editable database of publications.
 ### Students can log in and view publications uploaded by teachers.
+ Students have the capability to access the system by logging in. Once logged in, they can view the publications that teachers have uploaded to the platform.
 ### Students can provide feedback on publications.
+ This suggests an interactive feature where students can offer feedback on the publications they view. It could be comments, ratings, or other forms of input.
 ## Contributions:
 ### Contributions to the project are restricted to only group members.
 
