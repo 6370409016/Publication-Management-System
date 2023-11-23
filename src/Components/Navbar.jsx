@@ -37,6 +37,7 @@ export default function Navbar() {
                                 <li><Link className="dropdown-item" to="/research">Research Scholar Guidance</Link></li>
                                 <li><Link className="dropdown-item" to="null">Learning Material Developed</Link></li>
                                 <li><Link className="dropdown-item" to="null">FDP</Link></li>
+                                <li><Link className="dropdown-item" to="/report">REPORT</Link></li>
                             </ul>
                         </li>
                     </ul>

@@ -11,6 +11,8 @@ import AwardsPage from "./pages/AwardPage";
 import SuggestionPage from "./pages/SuggestionPage";
 import ProductPage from "./pages/ProductPage";
 import ResearchScholar from "./pages/ResearchScholar";
+import Report from "./pages/Report";
+
 
 function App() {
   return (
@@ -27,6 +29,8 @@ function App() {
         <Route path="/suggestion" element={<SuggestionPage />} />
         <Route path="/product" element={<ProductPage />} />
         <Route path="/research" element={<ResearchScholar />} />
+        <Route path="/report" element={<Report />} />
+        
 
 
       </Routes>
